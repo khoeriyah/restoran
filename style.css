@@ -1,0 +1,27 @@
+.sidebar{
+    background-color: #EADEB8;
+    float: left;
+}
+.sidebar header{
+    font-size: 18px;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+}
+.sidebar ul li a{
+    color: white;
+    text-decoration: none;
+}
+.section{
+    float: right;
+    margin-top: 20px;
+}
+.text{
+    text-align: center;
+}
+.footer{
+    background-color: #CFB784;
+}
+.sosmed ul li a{
+    color:white;
+}
